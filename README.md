@@ -1,2 +1,2 @@
-# Kinesys-JQuery
+# Nephael-JQuery
 JQuery Practice
