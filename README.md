@@ -1,2 +1,2 @@
-# Nephael-JQuery
+# Apasys-JQuery
 JQuery Practice
